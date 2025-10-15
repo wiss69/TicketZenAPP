@@ -1,0 +1,1 @@
+"""ProofPal application package."""
