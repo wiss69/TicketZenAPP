@@ -1,0 +1,6 @@
+PySide6
+reportlab
+pillow
+python-dateutil
+PyMuPDF==1.24.10
+win10toast
